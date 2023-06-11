@@ -3,13 +3,22 @@
 
 <p align="center"><b>Image Gallery App made in Flutter</b>.</p>
 
-<p align="center"><a target="_blank" href="https://link.medium.com/jbKstf8nP9"><img src="https://img.shields.io/badge/Medium-Article-green"></a></p>
+
+## Screenshots
+<table>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/davywiz/flutter_photo_app/screenshots/images_project2.jpg"></td>
+        <td><img src="https://github.com/Davywiz/flutter_photo_app/blob/master/screenshots/images_project2.jpg?raw=true"></td>
+        <td><img src="https://raw.githubusercontent.com/davywiz/beer-app/master/screenshots/3.png"></td>
+    </tr>
+</table>
+
 
 ## Steps to recreate
-<p align="center">
-Clone repository
-Run flutter pub get (to get all the packages in the pubspec.yaml)
-Run tests with "flutter test"
+<p align="right">
+- Clone repository
+-  Run flutter pub get (to get all the packages in the pubspec.yaml)
+- Run tests with "flutter test"
 </p>
 
 ## Design Choice
