@@ -7,9 +7,9 @@
 ## Screenshots
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/davywiz/flutter_photo_app/screenshots/images_project2.jpg"></td>
+        <td><img src="https://github.com/Davywiz/flutter_photo_app/blob/master/screenshots/images_project1.jpg?raw=true"></td>
         <td><img src="https://github.com/Davywiz/flutter_photo_app/blob/master/screenshots/images_project2.jpg?raw=true"></td>
-        <td><img src="https://raw.githubusercontent.com/davywiz/beer-app/master/screenshots/3.png"></td>
+        <td><img src="https://github.com/Davywiz/flutter_photo_app/blob/master/screenshots/images_project3.jpg?raw=true"></td>
     </tr>
 </table>
 
