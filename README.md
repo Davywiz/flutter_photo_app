@@ -22,7 +22,7 @@
 </p>
 
 ## Design Choice
-<p align="center">
+<p>
 The Architecture followed in this project is the clean Architecture, separation of concerns in provider, repository and data.
 
 State Management solution used was Riverpod
