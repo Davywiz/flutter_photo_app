@@ -15,10 +15,10 @@
 
 
 ## Steps to recreate
-<p align="right">
-- Clone repository
--  Run flutter pub get (to get all the packages in the pubspec.yaml)
-- Run tests with "flutter test"
+<p>
+- Clone repository</p>
+<p >-  Run flutter pub get (to get all the packages in the pubspec.yaml)</p>
+<p >- Run tests with "flutter test"
 </p>
 
 ## Design Choice
@@ -26,7 +26,7 @@
 The Architecture followed in this project is the clean Architecture, separation of concerns in provider, repository and data.
 
 State Management solution used was Riverpod
-Routing done with Go Router
+Routing done with Go-Router
 
 Images are being cached in the GridView By caching images, subsequent requests for the same image can be served from the local cache instead of making a network request. This reduces the loading time, as the images are already stored locally on the device.
 </p>
