@@ -20,6 +20,10 @@
 <p >-  Run flutter pub get (to get all the packages in the pubspec.yaml)</p>
 <p >- Run tests with "flutter test"
 </p>
+<p >-[APPETIZE LINK](https://appetize.io/app/foir5rduvilavrbedylnibruim?device=pixel7&osVersion=13.0&scale=75) Run tests with "flutter test"
+</p>
+
+
 
 ## Design Choice
 <p>
