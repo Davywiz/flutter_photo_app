@@ -24,7 +24,7 @@
 Run tests with "flutter test"
 </p>
 
-- [APPETIZE LINK](https://appetize.io/app/foir5rduvilavrbedylnibruim?device=pixel7&osVersion=13.0&scale=75)
+[(RUN APP IN AN ONLINE EMULATOR) APPETIZE LINK](https://appetize.io/app/foir5rduvilavrbedylnibruim?device=pixel7&osVersion=13.0&scale=75)
 
 
 ## Design Choice
